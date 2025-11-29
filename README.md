@@ -1,3 +1,9 @@
+https://docker.1panel.live
+https://docker.m.daocloud.io
+https://dockerproxy.com
+https://docker.nju.edu.cn
+目前我配置这4个够用
+
 # DockerHub 国内加速镜像列表
 
 [国内可用Docker镜像源加速器/DockerHub镜像汇总](https://www.wangdu.site/course/2109.html)（博客版及时更新）
